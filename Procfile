@@ -1,0 +1,1 @@
+web: java -jar target/com.youtube.ecommerce-0.0.1.jar
